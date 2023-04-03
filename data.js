@@ -682,7 +682,7 @@ var APP_DATA = {
         {
           "yaw": 2.469791931621838,
           "pitch": 0.22177725054389086,
-          "title": "Dog Bathing Area",
+          "title": "Ponds",
           "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
@@ -739,7 +739,7 @@ var APP_DATA = {
         {
           "yaw": -3.124526007414575,
           "pitch": 0.2811353593770569,
-          "title": "River Mimram",
+          "title": "Ponds",
           "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
@@ -909,7 +909,7 @@ var APP_DATA = {
         {
           "yaw": -0.6243014242969149,
           "pitch": -0.2065238286429647,
-          "title": "A414",
+          "title": "Woodland",
           "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
@@ -966,7 +966,7 @@ var APP_DATA = {
         {
           "yaw": -3.1401629201096615,
           "pitch": 0.2783010402880919,
-          "title": "River Mimram",
+          "title": "Riverside Lake",
           "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
