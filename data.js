@@ -43,6 +43,12 @@ var APP_DATA = {
           "title": "Kings Lake",
           "text": "Text"
         }
+      ],
+      "nadirCaps": [
+        {
+          "yaw": 1.8023117221065018,
+          "pitch": 0.18675668994088568,
+        }
       ]
     },
     {

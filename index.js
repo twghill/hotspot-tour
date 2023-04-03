@@ -100,6 +100,12 @@
       scene.hotspotContainer().createHotspot(element, { yaw: hotspot.yaw, pitch: hotspot.pitch });
     });
 
+    // Create nadir caps.
+    data.nadirCaps.forEach(function(hotspot) {
+      var element = createNadirCapElement(hotspot);
+      scene.hotspotContainer().createHotspot(element, { yaw: hotspot.yaw, pitch: hotspot.pitch });
+    });
+
     return {
       data: data,
       scene: scene,
@@ -277,6 +283,28 @@
     tooltip.classList.add('hotspot-tooltip');
     tooltip.classList.add('link-hotspot-tooltip');
     tooltip.innerHTML = findSceneDataById(hotspot.target).name;
+
+    wrapper.appendChild(icon);
+    wrapper.appendChild(tooltip);
+
+    return wrapper;
+  }
+
+  function createNadirCapElement(hotspot) {
+
+    // Create wrapper element to hold icon and tooltip.
+    var wrapper = document.createElement('div');
+    wrapper.classList.add('hotspot');
+    wrapper.classList.add('nadir-cap');
+
+    // Create image element.
+    var icon = document.createElement('img');
+    icon.src = 'img/cap.png';
+    icon.classList.add('nadir-cap-icon');
+
+    // Prevent touch and scroll events from reaching the parent element.
+    // This prevents the view control logic from interfering with the hotspot.
+    stopTouchAndScrollEventPropagation(wrapper);
 
     wrapper.appendChild(icon);
     wrapper.appendChild(tooltip);
