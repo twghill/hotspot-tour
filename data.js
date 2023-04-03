@@ -1029,7 +1029,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "Panshanger Park",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
