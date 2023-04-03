@@ -307,7 +307,6 @@
     stopTouchAndScrollEventPropagation(wrapper);
 
     wrapper.appendChild(icon);
-    wrapper.appendChild(tooltip);
 
     return wrapper;
   }

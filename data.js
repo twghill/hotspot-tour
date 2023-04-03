@@ -46,8 +46,8 @@ var APP_DATA = {
       ],
       "nadirCaps": [
         {
-          "yaw": 1.8023117221065018,
-          "pitch": 0.18675668994088568
+          "yaw": 0,
+          "pitch": 1
         }
       ]
     },
@@ -100,6 +100,12 @@ var APP_DATA = {
           "title": "Kings Lake",
           "text": "Text"
         }
+      ],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
+        }
       ]
     },
     {
@@ -150,6 +156,12 @@ var APP_DATA = {
           "pitch": 0.12384292387329587,
           "title": "Kings Lake",
           "text": "Text"
+        }
+      ],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
         }
       ]
     },
@@ -202,6 +214,12 @@ var APP_DATA = {
           "title": "Kings Lake",
           "text": "Text"
         }
+      ],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
+        }
       ]
     },
     {
@@ -252,7 +270,13 @@ var APP_DATA = {
           "target": "6-m6"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
+        }
+      ]
     },
     {
       "id": "5-a1",
@@ -296,6 +320,12 @@ var APP_DATA = {
           "pitch": 0.21031155723291128,
           "title": "Kings Lake",
           "text": "Text"
+        }
+      ],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
         }
       ]
     },
@@ -347,7 +377,13 @@ var APP_DATA = {
           "target": "8-m8"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
+        }
+      ]
     },
     {
       "id": "7-m7",
@@ -391,6 +427,12 @@ var APP_DATA = {
           "pitch": 0.26880337953287636,
           "title": "Kings Lake",
           "text": "Text"
+        }
+      ],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
         }
       ]
     },
@@ -436,7 +478,13 @@ var APP_DATA = {
           "target": "6-m6"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
+        }
+      ]
     },
     {
       "id": "9-m9",
@@ -480,7 +528,13 @@ var APP_DATA = {
           "target": "8-m8"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
+        }
+      ]
     },
     {
       "id": "10-m10",
@@ -524,7 +578,13 @@ var APP_DATA = {
           "target": "11-m11"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
+        }
+      ]
     },
     {
       "id": "11-m11",
@@ -568,7 +628,13 @@ var APP_DATA = {
           "target": "12-m12"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
+        }
+      ]
     },
     {
       "id": "12-m12",
@@ -618,6 +684,12 @@ var APP_DATA = {
           "pitch": 0.22177725054389086,
           "title": "Dog Bathing Area",
           "text": "Text"
+        }
+      ],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
         }
       ]
     },
@@ -670,6 +742,12 @@ var APP_DATA = {
           "title": "River Mimram",
           "text": "Text"
         }
+      ],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
+        }
       ]
     },
     {
@@ -714,7 +792,13 @@ var APP_DATA = {
           "target": "15-m15"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
+        }
+      ]
     },
     {
       "id": "15-m15",
@@ -771,6 +855,12 @@ var APP_DATA = {
           "title": "Welcome to Panshanger",
           "text": "Text"
         }
+      ],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
+        }
       ]
     },
     {
@@ -821,6 +911,12 @@ var APP_DATA = {
           "pitch": -0.2065238286429647,
           "title": "A414",
           "text": "Text"
+        }
+      ],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
         }
       ]
     },
@@ -873,6 +969,12 @@ var APP_DATA = {
           "title": "River Mimram",
           "text": "Text"
         }
+      ],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
+        }
       ]
     },
     {
@@ -917,6 +1019,12 @@ var APP_DATA = {
           "pitch": 0.1294016129505451,
           "title": "Osprey Lake",
           "text": "Text"
+        }
+      ],
+      "nadirCaps": [
+        {
+          "yaw": 0,
+          "pitch": 1
         }
       ]
     }
