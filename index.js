@@ -100,12 +100,6 @@
       scene.hotspotContainer().createHotspot(element, { yaw: hotspot.yaw, pitch: hotspot.pitch });
     });
 
-    // Create nadir caps.
-    data.nadirCaps.forEach(function(hotspot) {
-      var element = createNadirCapElement(hotspot);
-      scene.hotspotContainer().createHotspot(element, { yaw: hotspot.yaw, pitch: hotspot.pitch });
-    });
-
     return {
       data: data,
       scene: scene,

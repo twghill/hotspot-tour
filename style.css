@@ -49,6 +49,7 @@ a, a:hover, a:active, a:visited {
   right: 40px;
   height: 40px;
   text-align: center;
+  visibility: hidden;
 }
 
 .mobile #titleBar {
@@ -96,6 +97,7 @@ body.multiple-scenes.mobile #titleBar {
 }
 
 #fullscreenToggle {
+  visibility: hidden;
   display: none;
   position: absolute;
   top: 0;
@@ -146,6 +148,7 @@ body.fullscreen-enabled #fullscreenToggle {
 }
 
 #autorotateToggle {
+  visibility: hidden;
   display: block;
   position: absolute;
   top: 0;
@@ -201,6 +204,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 }
 
 #sceneListToggle {
+  visibility: hidden;
   position: absolute;
   top: 0;
   left: 0;
@@ -254,6 +258,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 }
 
 #sceneList {
+  visibility: hidden;
   position: absolute;
   top: 0;
   left: -220px;
