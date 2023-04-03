@@ -41,7 +41,7 @@ var APP_DATA = {
           "yaw": -0.4023117221065018,
           "pitch": 0.18675668994088568,
           "title": "Kings Lake",
-          "text": "Text"
+          "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
       "nadirCaps": [
@@ -98,7 +98,7 @@ var APP_DATA = {
           "yaw": -0.048575160332319456,
           "pitch": 0.11308975169367308,
           "title": "Kings Lake",
-          "text": "Text"
+          "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
       "nadirCaps": [
@@ -155,7 +155,7 @@ var APP_DATA = {
           "yaw": 0.14380008947474465,
           "pitch": 0.12384292387329587,
           "title": "Kings Lake",
-          "text": "Text"
+          "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
       "nadirCaps": [
@@ -212,7 +212,7 @@ var APP_DATA = {
           "yaw": -0.025564281299834235,
           "pitch": 0.11952689275669748,
           "title": "Kings Lake",
-          "text": "Text"
+          "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
       "nadirCaps": [
@@ -319,7 +319,7 @@ var APP_DATA = {
           "yaw": -0.07267071564042382,
           "pitch": 0.21031155723291128,
           "title": "Kings Lake",
-          "text": "Text"
+          "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
       "nadirCaps": [
@@ -426,7 +426,7 @@ var APP_DATA = {
           "yaw": -3.1181201380820447,
           "pitch": 0.26880337953287636,
           "title": "Kings Lake",
-          "text": "Text"
+          "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
       "nadirCaps": [
@@ -683,7 +683,7 @@ var APP_DATA = {
           "yaw": 2.469791931621838,
           "pitch": 0.22177725054389086,
           "title": "Dog Bathing Area",
-          "text": "Text"
+          "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
       "nadirCaps": [
@@ -740,7 +740,7 @@ var APP_DATA = {
           "yaw": -3.124526007414575,
           "pitch": 0.2811353593770569,
           "title": "River Mimram",
-          "text": "Text"
+          "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
       "nadirCaps": [
@@ -853,7 +853,7 @@ var APP_DATA = {
           "yaw": 0.19403186966828656,
           "pitch": 0.6638753445355192,
           "title": "Welcome to Panshanger",
-          "text": "Text"
+          "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
       "nadirCaps": [
@@ -910,7 +910,7 @@ var APP_DATA = {
           "yaw": -0.6243014242969149,
           "pitch": -0.2065238286429647,
           "title": "A414",
-          "text": "Text"
+          "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
       "nadirCaps": [
@@ -967,7 +967,7 @@ var APP_DATA = {
           "yaw": -3.1401629201096615,
           "pitch": 0.2783010402880919,
           "title": "River Mimram",
-          "text": "Text"
+          "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
       "nadirCaps": [
@@ -1018,7 +1018,7 @@ var APP_DATA = {
           "yaw": 3.0663445705211876,
           "pitch": 0.1294016129505451,
           "title": "Osprey Lake",
-          "text": "Text"
+          "text": "The quick brown fox jumped over the lazy dog."
         }
       ],
       "nadirCaps": [
